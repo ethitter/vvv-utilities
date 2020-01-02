@@ -1,3 +1,3 @@
-# wp-local-dev-utilities
+# vvv-utilities
 
-Custom utilities for our local environment. These are loaded by our provisioner.
+Custom utilities for VVV.
